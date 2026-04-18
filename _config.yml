@@ -23,8 +23,8 @@ plugins:
   - jekyll-seo-tag
 
 header_pages:
- - about.md
- - academics.md
+ - "about.md"
+ - "academics.md"
 # Navigation 설정 추가
 #navigation:
 #  - title: "About"
