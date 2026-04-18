@@ -8,6 +8,7 @@ author:
   name   : "Hyunhoo Bae"
   bio    : "Student at Dougherty Valley High School" # 본인 소개 한 줄
   location: "San Ramon, CA"
+  picture: "25PHk.png"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
