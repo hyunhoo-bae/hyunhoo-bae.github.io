@@ -22,15 +22,17 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+header_pages:
+ - about.md
 # Navigation 설정 추가
-navigation:
-  - title: "About"
-    url: /about/
-  - title: "Projects"
-    url: /projects/
-  - title: "Academics"
-    url: /Academics/
-  - title: "Research"
-    url: /Research/
-  - title: "Volunteer"
-    url: /Volunteer/
+#navigation:
+#  - title: "About"
+#    url: /about/
+#  - title: "Projects"
+#    url: /projects/
+#  - title: "Academics"
+#    url: /Academics/
+#  - title: "Research"
+#    url: /Research/
+#  - title: "Volunteer"
+#    url: /Volunteer/
