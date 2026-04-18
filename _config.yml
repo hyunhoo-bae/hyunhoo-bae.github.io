@@ -3,16 +3,23 @@ title: "Hyunhoo Bae"
 locale: "en-US"
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
+# Minimal Mistakes 관련 필수 설정
+minimal_mistakes_skin: "default" # 혹은 "air", "contrast", "mint" 중 선택 가능
+
 # Site Author
 author:
   name   : "Hyunhoo Bae"
-  bio    : "Student at Dougherty Valley High School" # 본인 소개 한 줄
+  bio    : "Student at Dougherty Valley High School"
   location: "San Ramon, CA"
-  picture: "25PHk.png"
+  picture: "/25PHk.png" # 파일명 앞에 슬래시 꼭 확인!
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/hyunhoo-bae"
+
+# Build Settings
+include: ["_pages", "_posts", "_data"]
+exclude: ["Node_modules", "vendor/", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json"]
 
 # Defaults
 defaults:
@@ -21,10 +28,10 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true # 사이드바 프로필 활성화
+      author_profile: true
   - scope:
       path: ""
       type: pages
     values:
       layout: single
-      author_profile: true # 페이지에서도 사이드바 활성화
+      author_profile: true
