@@ -1,39 +1,13 @@
 # Site Settings
 title: "Hyunhoo Bae"
 description: "Student at Dougherty Valley High School"
-locale: "en-US"
+remote_theme: "jekyll/minima" # 테마를 명시적으로 선언
 
-# 가장 안정적인 기본 테마로 임시 변경하여 빌드 성공 확인
-theme: minima
+# 상단 메뉴 설정 (이 방식이 가장 확실합니다)
+titles_from_headings: strip
+include: ["about.md", "projects.md"]
 
-# Site Author
-author:
-  name   : "Hyunhoo Bae"
-  bio    : "Competitive Programmer & Student"
-  location: "San Ramon, CA"
-  picture: "/25PHk.png"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/hyunhoo-bae"
-
-# Plugins
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
+# 사이트가 파일을 찾을 수 있도록 순서 지정
 header_pages:
- - "about.md"
- - "academics.md"
-# Navigation 설정 추가
-#navigation:
-#  - title: "About"
-#    url: /about/
-#  - title: "Projects"
-#    url: /projects/
-#  - title: "Academics"
-#    url: /Academics/
-#  - title: "Research"
-#    url: /Research/
-#  - title: "Volunteer"
-#    url: /Volunteer/
+  - about.md
+  - projects.md
