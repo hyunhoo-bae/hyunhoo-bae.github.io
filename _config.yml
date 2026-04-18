@@ -1,37 +1,23 @@
 # Site Settings
 title: "Hyunhoo Bae"
-locale: "en-US"
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+description: "Student at Dougherty Valley High School"
+locale: "ko-KR"
 
-# Minimal Mistakes 관련 필수 설정
-minimal_mistakes_skin: "default" # 혹은 "air", "contrast", "mint" 중 선택 가능
+# 가장 안정적인 기본 테마로 임시 변경하여 빌드 성공 확인
+theme: minima
 
 # Site Author
 author:
   name   : "Hyunhoo Bae"
-  bio    : "Student at Dougherty Valley High School"
+  bio    : "Competitive Programmer & Student"
   location: "San Ramon, CA"
-  #picture: "25PHk.png" # 파일명 앞에 슬래시 꼭 확인!
+  picture: "/25PHk.png"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/hyunhoo-bae"
 
-# Build Settings
-include: ["_pages", "_posts", "_data"]
-exclude: ["Node_modules", "vendor/", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json"]
-
-# Defaults
-defaults:
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
