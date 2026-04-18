@@ -1,7 +1,7 @@
 # Site Settings
 title: "Hyunhoo Bae"
 description: "Student at Dougherty Valley High School"
-locale: "ko-KR"
+locale: "en-US"
 
 # 가장 안정적인 기본 테마로 임시 변경하여 빌드 성공 확인
 theme: minima
@@ -21,3 +21,16 @@ author:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+# Navigation 설정 추가
+navigation:
+  - title: "About"
+    url: /about/
+  - title: "Projects"
+    url: /projects/
+  - title: "Academics"
+    url: /Academics/
+  - title: "Research"
+    url: /Research/
+  - title: "Volunteer"
+    url: /Volunteer/
