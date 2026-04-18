@@ -24,6 +24,7 @@ plugins:
 
 header_pages:
  - about.md
+ - academics.md
 # Navigation 설정 추가
 #navigation:
 #  - title: "About"
