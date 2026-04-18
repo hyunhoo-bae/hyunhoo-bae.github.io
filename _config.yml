@@ -1,1 +1,29 @@
-remote_theme: mmistakes/minimal-mistakes
+# Site Settings
+title: "Hyunhoo Bae"
+locale: "en-US"
+remote_theme: "mmistakes/minimal-mistakes"
+
+# Site Author
+author:
+  name   : "Hyunhoo Bae"
+  bio    : "Student at Dougherty Valley High School" # 본인 소개 한 줄
+  location: "San Ramon, CA"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/hyunhoo-bae"
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true # 사이드바 프로필 활성화
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true # 페이지에서도 사이드바 활성화
