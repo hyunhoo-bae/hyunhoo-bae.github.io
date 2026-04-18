@@ -1,0 +1,11 @@
+main:
+  - title: "About"
+    url: /about/
+  - title: "Projects"
+    url: /projects/
+  - title: "Academics"
+    url: /Academics/
+  - title: "Research"
+    url: /Research/
+  - title: "Volunteer"
+    url: /Volunteer/
