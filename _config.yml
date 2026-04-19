@@ -1,13 +1,27 @@
 # Site Settings
 title: "Hyunhoo Bae"
-description: "Student at Dougherty Valley High School"
-remote_theme: "jekyll/minima" # 테마를 명시적으로 선언
+locale: "en-US"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0" # 버전 고정
+minimal_mistakes_skin: "default"
 
-# 상단 메뉴 설정 (이 방식이 가장 확실합니다)
-titles_from_headings: strip
-include: ["about.md", "projects.md"]
+# Site Author (왼쪽 사이드바 설정)
+author:
+  name   : "Hyunhoo Bae"
+  bio    : "10th Grade Student at DVHS | Competitive Programmer"
+  location: "San Ramon, CA"
+  picture: "/25PHk.png"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/hyunhoo-bae"
 
-# 사이트가 파일을 찾을 수 있도록 순서 지정
-header_pages:
-  - about.md
-  - projects.md
+# Defaults (모든 페이지에 사이드바 적용)
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "single"
+      author_profile: true
+
+# 상단 메뉴 연결
+navigation: main
