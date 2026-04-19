@@ -1,9 +1,17 @@
 # Site Settings
 title: "Hyunhoo Bae"
 locale: "en-US"
-remote_theme: "mmistakes/minimal-mistakes@4.24.0" # 버전 고정
+#remote_theme: "mmistakes/minimal-mistakes@4.24.0" # 버전 고정
+theme: "minimal-mistakes-jekyll"
 minimal_mistakes_skin: "default"
 
+# Plugins 추가 (필수)
+plugins:
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-include-cache # 이 플러그인이 에러를 해결해줍니다.
+  
 # Site Author (왼쪽 사이드바 설정)
 author:
   name   : "Hyunhoo Bae"
