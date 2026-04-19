@@ -1,11 +1,11 @@
 main:
   - title: "About"
-    url: /about.html
+    url: /about/
   - title: "Projects"
-    url: /projects.html
+    url: /projects/
   - title: "Academics"
-    url: /academics.html
+    url: /academics/
   - title: "Research"
-    url: /research.html
+    url: /research/
   - title: "Volunteer"
-    url: /volunteer.html
+    url: /volunteer/
