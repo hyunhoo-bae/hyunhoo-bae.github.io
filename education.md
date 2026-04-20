@@ -6,7 +6,7 @@ author_profile: true
 entries_layout: grid
 ---
 
-{% assign edu_list = site.education | sort: 'date' | reverse %}
-{% for post in edu_list %}
+{% assign edu_items = site.education | sort: 'date' | reverse %}
+{% for item in edu_items %}
   {% include archive-single.html type="grid" %}
 {% endfor %}
