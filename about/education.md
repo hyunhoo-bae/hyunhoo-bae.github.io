@@ -2,6 +2,9 @@
 layout: single
 title: "Education"
 permalink: /about/education/
+author_profile: true
+sidebar:
+  nav: "about_sidebar"
 ---
 
 Dougherty Valley High School
