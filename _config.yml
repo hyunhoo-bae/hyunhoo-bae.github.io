@@ -19,7 +19,7 @@ author:
   name   : "Hyunhoo Bae"
   bio    : "10th Grade Student at DVHS | Competitive Programmer"
   location: "San Ramon, CA"
-  picture: "/25PHk.png"
+  #picture: "/25PHk.png"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -35,3 +35,8 @@ defaults:
 
 # 상단 메뉴 연결
 navigation: main
+
+collections:
+  education:
+    output: true
+    permalink: /education/:path/
