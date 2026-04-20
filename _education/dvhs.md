@@ -3,7 +3,7 @@ title: "Dougherty Valley High School"
 excerpt: "Class of 2028 | GPA: 4.21 (weighted)"
 header:
   teaser: "https://upload.wikimedia.org/wikipedia/en/2/2f/Dougherty_Valley_High_School_logo.png" # 학교 로고
-date: 2024-08-01 # 정렬을 위한 날짜 (입학일 등)
+#date: 2024-08-01 # 정렬을 위한 날짜 (입학일 등)
 ---
 
 **Current Status:** 10th Grade Student
@@ -13,9 +13,9 @@ date: 2024-08-01 # 정렬을 위한 날짜 (입학일 등)
 - **Weighted GPA:** 4.21
 
 **Awards & Honors:**
-- Distinguished Scholar Award (2023)
+#- Distinguished Scholar Award (2023)
 
 **Test Scores:**
-- SAT: 1600 (Oct 2021)
-- AP Computer Science A (5)
-- AP Physics 1 (5)
+- SAT/ACT:
+- AP CAL BC ()
+- Computer Science A ()
