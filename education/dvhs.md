@@ -2,8 +2,9 @@
 title: "Dougherty Valley High School"
 excerpt: "Class of 2028 | GPA: 4.21 (weighted)"
 header:
-  teaser: "/assets/images/school-logo.png" # 학교 로고 이미지
+  teaser: "https://mmistakes.github.io/minimal-mistakes/assets/images/foo-bar-identity.jpg" # 테스트용 이미지입니다. 나중에 학교 로고로 바꾸세요!
 ---
+학교 생활 및 상세 성적 내용을 여기에 적습니다.
 
 Standardized Testing:
 
