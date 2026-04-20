@@ -21,6 +21,7 @@ title: "Dougherty Valley High School"
 - Computer Science A ()
 
 ### Courses
+<div class="table-responsive" markdown="1">
 
 | Term | Course | Status |
 |:---:|:---|:---:|
@@ -30,4 +31,4 @@ title: "Dougherty Valley High School"
 | 2025 | AP Computer Science A | Completed |
 | 2024 | Honors Geometry/Algebra 2 | Completed |
 
-<br>
+</div>
