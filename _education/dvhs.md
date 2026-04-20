@@ -21,14 +21,32 @@ title: "Dougherty Valley High School"
 - Computer Science A ()
 
 ### Courses
+
+#### 11th Grade (2025 - 2026)
 <div class="table-responsive" markdown="1">
 
-| Term | Course | Status |
-|:---:|:---|:---:|
-| 2026 | Math 292: Multivariable Calculus (DVC) | In Progress |
-| 2026 | Math 193: Linear Algebra (DVC) | Planned |
-| 2025 | AP Physics 1 | Completed |
-| 2025 | AP Computer Science A | Completed |
-| 2024 | Honors Geometry/Algebra 2 | Completed |
+| Course | Status |
+|:---|:---:|
+| Math 292: Multivariable Calculus (DVC) | In Progress |
+| Math 193: Linear Algebra (DVC) | Planned |
+
+</div>
+
+#### 10th Grade (2024 - 2025)
+<div class="table-responsive" markdown="1">
+
+| Course | Status |
+|:---|:---:|
+| AP Physics 1 | Completed |
+| AP Computer Science A | Completed |
+
+</div>
+
+#### 9th Grade (2023 - 2024)
+<div class="table-responsive" markdown="1">
+
+| Course | Status |
+|:---|:---:|
+| Honors Geometry/Algebra 2 | Completed |
 
 </div>
