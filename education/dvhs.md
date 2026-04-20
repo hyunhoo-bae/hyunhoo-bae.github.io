@@ -2,7 +2,7 @@
 title: "Dougherty Valley High School"
 excerpt: "Class of 2028 | GPA: 4.21 (weighted)"
 header:
-  teaser: "https://mmistakes.github.io/minimal-mistakes/assets/images/foo-bar-identity.jpg" # 테스트용 이미지입니다. 나중에 학교 로고로 바꾸세요!
+  teaser: "https://upload.wikimedia.org/wikipedia/en/2/2f/Dougherty_Valley_High_School_logo.png"
 ---
 
 - Distinguished Scholar Award (2023)
