@@ -1,3 +1,9 @@
+---
+layout: single
+title: "Education"
+permalink: /about/education/
+---
+
 Dougherty Valley High School
 Class of 2028
 
