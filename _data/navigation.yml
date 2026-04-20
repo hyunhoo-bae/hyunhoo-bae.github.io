@@ -2,7 +2,7 @@ main:
   #- title: "About"
   #  url: /about/
   - title: "Education"
-    url: /education/
+    url: /education/dvhs/
   - title: "Projects"
     url: /projects/
   - title: "Academics"
