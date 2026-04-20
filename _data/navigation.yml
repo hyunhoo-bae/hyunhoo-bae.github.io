@@ -1,9 +1,6 @@
 main:
   - title: "About"
     url: /about/
-    children:
-      - title: "Education"
-        url: /about/education/
   - title: "Projects"
     url: /projects/
   - title: "Academics"
@@ -12,3 +9,8 @@ main:
     url: /research/
   - title: "Volunteer"
     url: /volunteer/
+
+# About 페이지용 왼쪽 사이드바 메뉴
+about_sidebar:
+  - title: "Education"
+    url: /about/education/
