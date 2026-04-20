@@ -3,8 +3,11 @@ title: "Hyunhoo Bae"
 locale: "en-US"
 remote_theme: "mmistakes/minimal-mistakes@4.24.0" # 버전 고정
 #theme: "minimal-mistakes-jekyll"
+# 상단 메뉴 드롭다운 활성화
 minimal_mistakes_skin: "default"
-
+site:
+  navigation_collapse: true # 모바일에서 메뉴를 접을지 여부
+  
 # Plugins
 plugins:
   - jekyll-include-cache # 이 플러그인이 'include_cached' 에러를 막아줍니다.
