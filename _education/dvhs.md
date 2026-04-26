@@ -10,43 +10,57 @@ title: "Dougherty Valley High School"
 
 **Academic Highlights:**
 - **Unweighted GPA:** 4.0
-- **Weighted GPA:** 4.21
+- **Weighted GPA:** 4.15
+- **Weighted 10-12 A-G CA GPA:** 4.50
 
 **Awards & Honors:**
 
 
 **Test Scores:**
 - SAT/ACT:
-- AP CAL BC ()
-- Computer Science A ()
 
 ### Courses
 
-#### 11th Grade (2025 - 2026)
+#### 12th Grade (2027 - 20278)
+<div class="table-responsive" markdown="1">
+
+| Course | Status |
+|:---|:---:|
+| Math 193: Linear Algebra (DVC) | Planned |
+
+#### 11th Grade (2026 - 2027)
 <div class="table-responsive" markdown="1">
 
 | Course | Status |
 |:---|:---:|
 | Math 292: Multivariable Calculus (DVC) | In Progress |
-| Math 193: Linear Algebra (DVC) | Planned |
 
 </div>
 
-#### 10th Grade (2024 - 2025)
+#### 10th Grade (2025 - 2026)
 <div class="table-responsive" markdown="1">
 
 | Course | Status |
 |:---|:---:|
-| AP Physics 1 | Completed |
+| AP Calculus BC | Completed |
 | AP Computer Science A | Completed |
+| English 10 | Completed |
+| Korean III | Completed |
+| Physics Honors | Completed 
+| World History I-II | Completed |
 
 </div>
 
-#### 9th Grade (2023 - 2024)
+#### 9th Grade (2024 - 2025)
 <div class="table-responsive" markdown="1">
 
 | Course | Status |
 |:---|:---:|
-| Honors Geometry/Algebra 2 | Completed |
+| Biology: The Living Earth | Completed |
+| English 9 | Completed |
+| Korean II | Completed |
+| PE 9 | Completed |
+| Precalculus/Trig | Completed |
+| World Geography and Culture/Health | Completed |
 
 </div>
