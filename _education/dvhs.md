@@ -54,7 +54,7 @@ title: "Dougherty Valley High School"
 | AP Computer Science A | Completed |
 | English 10 | Completed |
 | Korean III | Completed |
-| Physics Honors | Completed 
+| Physics Honors | Completed |
 | World History I-II | Completed |
 
 </div>
