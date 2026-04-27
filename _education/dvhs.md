@@ -36,7 +36,6 @@ title: "Dougherty Valley High School"
 | Course | Status |
 |:---|:---:|
 | Math 193: Linear Algebra (DVC) | Planned |
-
 </div>
 #### 11th Grade (2026 - 2027)
 <div style="font-size: 0.9em;" class="table-responsive" markdown="1">
@@ -44,7 +43,6 @@ title: "Dougherty Valley High School"
 | Course | Status |
 |:---|:---:|
 | Math 292: Multivariable Calculus (DVC) | In Progress |
-
 </div>
 #### 10th Grade (2025 - 2026)
 <div style="font-size: 0.9em;" class="table-responsive" markdown="1">
@@ -57,7 +55,6 @@ title: "Dougherty Valley High School"
 | Korean III | Completed |
 | Physics Honors | Completed |
 | World History I-II | Completed |
-
 </div>
 #### 9th Grade (2024 - 2025)
 <div style="font-size: 0.9em;" class="table-responsive" markdown="1">
@@ -70,5 +67,4 @@ title: "Dougherty Valley High School"
 | PE 9 | Completed |
 | Precalculus/Trig | Completed |
 | World Geography and Culture/Health | Completed |
-
 </div>
