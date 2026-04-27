@@ -2,41 +2,9 @@
 title: "Dougherty Valley High School"
 ---
 
-<style>
-  /* 전체 본문 글자 크기 및 간격 조절 */
-  .page__content {
-    font-size: 0.95em;
-    line-height: 1.6;
-  }
-  .page__content li {
-    margin-bottom: 0.3em;
-  }
-  /* 제목 스타일 강조 */
-  .school-title {
-    font-size: 1.5em;
-    font-weight: bold;
-    border-bottom: 2px solid #333;
-    padding-bottom: 5px;
-    margin-bottom: 20px;
-    display: block;
-  }
-  /* 표 내부 글자 크기 세밀 조절 */
-  .table-responsive {
-    font-size: 0.9em;
-    margin-bottom: 1.5em;
-  }
-</style>
-
-<span class="school-title">Dougherty Valley High School</span>
-
 **Current Status:** 10th Grade Student
 
 **Academic Highlights:**
-<style>
-  .page__content li {
-    margin-bottom: 0.2em; /* 불렛 포인트 사이의 간격을 줄여줍니다 */
-  }
-</style>
 - **Unweighted GPA:** 4.0
 - **Weighted GPA:** 4.15
 - **Weighted 10-12 A-G CA GPA:** 4.50
@@ -46,11 +14,6 @@ title: "Dougherty Valley High School"
 
 
 **Test Scores:**
-<style>
-  .page__content li {
-    margin-bottom: 0.2em; /* 불렛 포인트 사이의 간격을 줄여줍니다 */
-  }
-</style>
 - SAT/ACT:
 
 ### Courses
