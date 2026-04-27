@@ -1,8 +1,3 @@
-<style>
-  .page__content li {
-    margin-bottom: 0.2em; /* 불렛 포인트 사이의 간격을 줄여줍니다 */
-  }
-</style>
 ---
 title: "Dougherty Valley High School"
 #excerpt: "Class of 2028 | GPA: 4.21 (weighted)"
@@ -10,6 +5,12 @@ title: "Dougherty Valley High School"
 #  teaser: "https://upload.wikimedia.org/wikipedia/en/2/2f/Dougherty_Valley_High_School_logo.png" # 학교 로고
 #date: 2024-08-01 # 정렬을 위한 날짜 (입학일 등)
 ---
+
+<style>
+  .page__content li {
+    margin-bottom: 0.2em; /* 불렛 포인트 사이의 간격을 줄여줍니다 */
+  }
+</style>
 
 **Current Status:** 10th Grade Student
 
