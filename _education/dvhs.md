@@ -28,6 +28,8 @@ title: "Dougherty Valley High School"
 |:---|:---:|
 | Math 193: Linear Algebra (DVC) | Planned |
 
+</div>
+
 #### 11th Grade (2026 - 2027)
 <div style="font-size: 0.9em; class="table-responsive" markdown="1">
 
