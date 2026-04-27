@@ -4,9 +4,7 @@ title: "Dougherty Valley High School"
 
 <style>
   /* 모든 문단(p)과 제목(h3), 리스트(ul)의 하단 여백을 제거하거나 대폭 줄임 */
-  .page__content p, 
-  .page__content ul, 
-  .page__content h3 {
+  .page__content ul {
     margin-top: 0px !important;
     margin-bottom: 5px !important; /* 5px 정도로 아주 살짝만 띄움 */
   }
@@ -40,7 +38,6 @@ title: "Dougherty Valley High School"
 | Math 193: Linear Algebra (DVC) | Planned |
 
 </div>
-
 #### 11th Grade (2026 - 2027)
 <div style="font-size: 0.9em;" class="table-responsive" markdown="1">
 
@@ -49,7 +46,6 @@ title: "Dougherty Valley High School"
 | Math 292: Multivariable Calculus (DVC) | In Progress |
 
 </div>
-
 #### 10th Grade (2025 - 2026)
 <div style="font-size: 0.9em;" class="table-responsive" markdown="1">
 
@@ -63,7 +59,6 @@ title: "Dougherty Valley High School"
 | World History I-II | Completed |
 
 </div>
-
 #### 9th Grade (2024 - 2025)
 <div style="font-size: 0.9em;" class="table-responsive" markdown="1">
 
