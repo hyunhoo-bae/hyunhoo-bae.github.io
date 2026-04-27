@@ -6,8 +6,9 @@ title: "Dougherty Valley High School"
   .school-logo {
     display: block;
     margin: 20px auto;
-    max-width: 180px; /* 로고 크기를 적절하게 조절 */
+    max-width: 150px; 
     height: auto;
+    border-radius: 10px;
   }
   .page__content {
     font-size: 0.95em;
@@ -21,7 +22,7 @@ title: "Dougherty Valley High School"
   }
 </style>
 
-<img src="https://upload.wikimedia.org/wikipedia/en/2/2f/Dougherty_Valley_High_School_logo.png" class="school-logo" alt="DVHS Logo">
+<img src="https://dvhs.srvusd.net/images/logo.png" class="school-logo" alt="Dougherty Valley High School Logo" onerror="this.src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Education_Reading_Logo.svg/150px-Education_Reading_Logo.svg.png';">
 
 **Current Status:** 10th Grade Student
 
