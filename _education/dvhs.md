@@ -12,7 +12,7 @@ title: "Dougherty Valley High School"
 - **Unweighted GPA:** 4.0
 - **Weighted GPA:** 4.15
 - **Weighted 10-12 A-G CA GPA:** 4.50
-- 
+
 
 **Awards & Honors:**
 
