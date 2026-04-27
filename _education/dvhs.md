@@ -12,6 +12,7 @@ title: "Dougherty Valley High School"
 - **Unweighted GPA:** 4.0
 - **Weighted GPA:** 4.15
 - **Weighted 10-12 A-G CA GPA:** 4.50
+- 
 
 **Awards & Honors:**
 
@@ -20,7 +21,6 @@ title: "Dougherty Valley High School"
 - SAT/ACT:
 
 ### Courses
-
 #### 12th Grade (2027 - 20278)
 <div style="font-size: 0.9em; class="table-responsive" markdown="1">
 
