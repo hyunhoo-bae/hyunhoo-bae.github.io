@@ -1,11 +1,26 @@
 ---
 title: "Dougherty Valley High School"
-header:
-  image: "https://upload.wikimedia.org/wikipedia/en/2/2f/Dougherty_Valley_High_School_logo.png"
-  caption: "Dougherty Valley High School"
-#excerpt: "Class of 2028 | GPA: 4.21 (weighted)"
 ---
+<style>
+  /* 로고 이미지 중앙 정렬 및 크기 조절 */
+  .school-logo {
+    display: block;
+    margin: 0 auto 2em;
+    max-width: 200px; /* 로고 크기 조절 */
+  }
+  .page__content {
+    font-size: 0.95em;
+  }
+  .page__content li {
+    margin-bottom: 0.2em;
+  }
+  .table-responsive {
+    font-size: 0.9em;
+    margin-bottom: 1.5em;
+  }
+</style>
 
+<img src="https://upload.wikimedia.org/wikipedia/en/2/2f/Dougherty_Valley_High_School_logo.png" alt="DVHS Logo" class="school-logo">
 
 **Current Status:** 10th Grade Student
 
