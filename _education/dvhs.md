@@ -22,7 +22,7 @@ title: "Dougherty Valley High School"
 
 ### Courses
 #### 12th Grade (2027 - 20278)
-<div style="font-size: 0.9em; class="table-responsive" markdown="1">
+<div style="font-size: 0.9em;" class="table-responsive" markdown="1">
 
 | Course | Status |
 |:---|:---:|
@@ -31,7 +31,7 @@ title: "Dougherty Valley High School"
 </div>
 
 #### 11th Grade (2026 - 2027)
-<div style="font-size: 0.9em; class="table-responsive" markdown="1">
+<div style="font-size: 0.9em;" class="table-responsive" markdown="1">
 
 | Course | Status |
 |:---|:---:|
@@ -40,7 +40,7 @@ title: "Dougherty Valley High School"
 </div>
 
 #### 10th Grade (2025 - 2026)
-<div style="font-size: 0.9em; class="table-responsive" markdown="1">
+<div style="font-size: 0.9em;" class="table-responsive" markdown="1">
 
 | Course | Status |
 |:---|:---:|
@@ -54,7 +54,7 @@ title: "Dougherty Valley High School"
 </div>
 
 #### 9th Grade (2024 - 2025)
-<div style="font-size: 0.9em; class="table-responsive" markdown="1">
+<div style="font-size: 0.9em;" class="table-responsive" markdown="1">
 
 | Course | Status |
 |:---|:---:|
