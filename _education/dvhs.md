@@ -1,28 +1,33 @@
 ---
 title: "Dougherty Valley High School"
 ---
+
 <style>
-  /* 로고 이미지 중앙 정렬 및 크기 조절 */
-  .school-logo {
-    display: block;
-    margin: 20px auto;
-    max-width: 150px; 
-    height: auto;
-    border-radius: 10px;
-  }
+  /* 전체 본문 글자 크기 및 간격 조절 */
   .page__content {
     font-size: 0.95em;
+    line-height: 1.6;
   }
   .page__content li {
-    margin-bottom: 0.2em;
+    margin-bottom: 0.3em;
   }
+  /* 제목 스타일 강조 */
+  .school-title {
+    font-size: 1.5em;
+    font-weight: bold;
+    border-bottom: 2px solid #333;
+    padding-bottom: 5px;
+    margin-bottom: 20px;
+    display: block;
+  }
+  /* 표 내부 글자 크기 세밀 조절 */
   .table-responsive {
     font-size: 0.9em;
     margin-bottom: 1.5em;
   }
 </style>
 
-<img src="https://dvhs.srvusd.net/images/logo.png" class="school-logo" alt="Dougherty Valley High School Logo" onerror="this.src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Education_Reading_Logo.svg/150px-Education_Reading_Logo.svg.png';">
+<span class="school-title">Dougherty Valley High School</span>
 
 **Current Status:** 10th Grade Student
 
