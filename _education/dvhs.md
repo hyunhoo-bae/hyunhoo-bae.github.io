@@ -1,3 +1,8 @@
+<style>
+  .page__content li {
+    margin-bottom: 0.2em; /* 불렛 포인트 사이의 간격을 줄여줍니다 */
+  }
+</style>
 ---
 title: "Dougherty Valley High School"
 #excerpt: "Class of 2028 | GPA: 4.21 (weighted)"
@@ -21,7 +26,7 @@ title: "Dougherty Valley High School"
 - SAT/ACT:
 
 ### Courses
-#### 12th Grade (2027 - 20278)
+#### 12th Grade (2027 - 2028)
 <div style="font-size: 0.9em;" class="table-responsive" markdown="1">
 
 | Course | Status |
