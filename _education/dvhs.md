@@ -2,6 +2,18 @@
 title: "Dougherty Valley High School"
 ---
 
+<style>
+  /* 제목(h3) 위아래의 기본 간격을 대폭 줄입니다 */
+  h3 {
+    margin-top: 0.5em !important;
+    margin-bottom: 0.5em !important;
+  }
+  /* 리스트(ul) 아래의 간격도 줄여서 다음 섹션과 붙게 만듭니다 */
+  ul {
+    margin-bottom: 0.5em !important;
+  }
+</style>
+
 **Current Status:** 10th Grade Student
 
 **Academic Highlights:**
