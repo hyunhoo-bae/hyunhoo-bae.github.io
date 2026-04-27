@@ -3,14 +3,17 @@ title: "Dougherty Valley High School"
 ---
 
 <style>
-  /* 제목(h3) 위아래의 기본 간격을 대폭 줄입니다 */
-  h3 {
-    margin-top: 0.5em !important;
-    margin-bottom: 0.5em !important;
+  /* 모든 문단(p)과 제목(h3), 리스트(ul)의 하단 여백을 제거하거나 대폭 줄임 */
+  .page__content p, 
+  .page__content ul, 
+  .page__content h3 {
+    margin-top: 0px !important;
+    margin-bottom: 5px !important; /* 5px 정도로 아주 살짝만 띄움 */
   }
-  /* 리스트(ul) 아래의 간격도 줄여서 다음 섹션과 붙게 만듭니다 */
-  ul {
-    margin-bottom: 0.5em !important;
+
+  /* 리스트 아이템 사이의 간격도 조절 */
+  .page__content li {
+    margin-bottom: 2px !important;
   }
 </style>
 
